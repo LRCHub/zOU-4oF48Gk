@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "正攻法",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-01-05T03:39:23.035064Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "正攻法",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_正攻法_SUPER_BEAVER.txt"
+    }
+  ]
+}
